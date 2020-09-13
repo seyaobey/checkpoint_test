@@ -1,0 +1,40 @@
+{
+  "files": {
+    "static/js/0.415c27fd.chunk.js": "/static/js/0.415c27fd.chunk.js",
+    "static/js/0.415c27fd.chunk.js.map": "/static/js/0.415c27fd.chunk.js.map",
+    "main.css": "/static/css/main.cd06c6ed.chunk.css",
+    "main.js": "/static/js/main.972da5eb.chunk.js",
+    "main.js.map": "/static/js/main.972da5eb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.58bf8ebc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.58bf8ebc.js.map",
+    "static/css/3.111c6f95.chunk.css": "/static/css/3.111c6f95.chunk.css",
+    "static/js/3.2ddd2d63.chunk.js": "/static/js/3.2ddd2d63.chunk.js",
+    "static/js/3.2ddd2d63.chunk.js.map": "/static/js/3.2ddd2d63.chunk.js.map",
+    "static/css/4.34c0de18.chunk.css": "/static/css/4.34c0de18.chunk.css",
+    "static/js/4.9862af31.chunk.js": "/static/js/4.9862af31.chunk.js",
+    "static/js/4.9862af31.chunk.js.map": "/static/js/4.9862af31.chunk.js.map",
+    "static/js/5.9d3f45e4.chunk.js": "/static/js/5.9d3f45e4.chunk.js",
+    "static/js/5.9d3f45e4.chunk.js.map": "/static/js/5.9d3f45e4.chunk.js.map",
+    "static/js/6.f371b240.chunk.js": "/static/js/6.f371b240.chunk.js",
+    "static/js/6.f371b240.chunk.js.map": "/static/js/6.f371b240.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.38e33a7a9f3691d6cd3445c02b6faf96.js": "/precache-manifest.38e33a7a9f3691d6cd3445c02b6faf96.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.111c6f95.chunk.css.map": "/static/css/3.111c6f95.chunk.css.map",
+    "static/css/4.34c0de18.chunk.css.map": "/static/css/4.34c0de18.chunk.css.map",
+    "static/css/main.cd06c6ed.chunk.css.map": "/static/css/main.cd06c6ed.chunk.css.map",
+    "static/js/3.2ddd2d63.chunk.js.LICENSE.txt": "/static/js/3.2ddd2d63.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/word_map.925633f6.png",
+    "static/media/cancel.svg": "/static/media/cancel.2c07591b.svg",
+    "static/media/font-awesome.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/remove.svg": "/static/media/remove.ceab5cbf.svg",
+    "static/media/restart.svg": "/static/media/restart.bf96aeee.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58bf8ebc.js",
+    "static/css/3.111c6f95.chunk.css",
+    "static/js/3.2ddd2d63.chunk.js",
+    "static/css/main.cd06c6ed.chunk.css",
+    "static/js/main.972da5eb.chunk.js"
+  ]
+}
